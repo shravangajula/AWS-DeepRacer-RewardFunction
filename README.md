@@ -29,8 +29,8 @@ This project is licensed under the Apache-2.0 License.
 
 ## Author
 
-Shravan Kumar Gajula (MS in Computer Science)
+Shravan Kumar Gajula (MS in Computer Science at the University of Connecticut)
 
-Soumyashree Sahoo (PhD Candidate at University of Connecticut)
+Soumyashree Sahoo (PhD Candidate at the University of Connecticut)
 
-Mohammed Razzakuddin (MEng in Computer Science)
+Mohammed Razzakuddin (MEng in Computer Science at the University of Connecticut)
